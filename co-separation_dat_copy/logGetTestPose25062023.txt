@@ -1,0 +1,750 @@
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+MUSIC_solo_1mCi6eWXVbg_2.3 VS MUSIC_solo_X3GbAKww1KI_1
+MUSIC_solo_C7K9dQHlViM_4.9 VS MUSIC_solo_I2QXo4mGeRE_1.4
+MUSIC_solo_QaOUijKCqZU_9 VS MUSIC_solo_X3GbAKww1KI_5
+MUSIC_solo_loCRmBvtHZ4_12 VS MUSIC_solo_9dOqmTMqp1k_3
+MUSIC_solo_XlvlHfWjKx4_0.8 VS MUSIC_solo_2gk-IN35s5I_1.6
+MUSIC_solo_CeOAuSm1NUo_1.8 VS MUSIC_solo_loCRmBvtHZ4_4
+MUSIC_solo_loCRmBvtHZ4_10 VS MUSIC_solo_Sw8346DYwME_0.5
+MUSIC_solo_XTKxjzg1xwM_7 VS MUSIC_solo_j0U_hqIH_XM_3.1
+MUSIC_solo_oEb2mlij38w_2.4 VS MUSIC_solo_9dOqmTMqp1k_6
+MUSIC_solo_ZuJEVqon3lM_2 VS MUSIC_solo_1owUN7YXSzE_7.2
+MUSIC_solo_KgebjbW1mGk_2.3 VS MUSIC_solo_fhf2cx9t4vY_0.4
+MUSIC_solo_WNeHlya4VnQ_6.8 VS MUSIC_solo_ZRpsKMe5dSg_3.9
+MUSIC_solo__jPFkOkNjuo_5.4 VS MUSIC_solo_C7K9dQHlViM_4.9
+MUSIC_solo_PEyIPSlJNQM_0.4 VS MUSIC_solo_yy2vL2RUiPI_8.1
+MUSIC_solo_g1sNdUDTfJQ_2.4 VS MUSIC_solo_GPh_9jtWub8_2.6
+MUSIC_solo_KgebjbW1mGk_2.3 VS MUSIC_solo_XTKxjzg1xwM_9
+MUSIC_solo_yn1NaZWN_qQ_3.8 VS MUSIC_solo__jPFkOkNjuo_5.4
+MUSIC_solo_1mCi6eWXVbg_2.3 VS MUSIC_solo_lm51ySOO71o_5
+MUSIC_solo_PF9PrzmkR2Q_1.2 VS MUSIC_solo_23DDVbzSig8_4.4
+MUSIC_solo_QaOUijKCqZU_10 VS MUSIC_solo_vYr0vft28Tg_0.1
+MUSIC_solo_XTKxjzg1xwM_16 VS MUSIC_solo_loCRmBvtHZ4_9
+MUSIC_solo_nZ4HNz9xvSw_4.4 VS MUSIC_solo_loCRmBvtHZ4_11
+MUSIC_solo_8rb-thew50c_6.8 VS MUSIC_solo_j0U_hqIH_XM_3.1
+MUSIC_solo_QaOUijKCqZU_9 VS MUSIC_solo_lm51ySOO71o_4
+MUSIC_solo_q4kscRK91y4_4.8 VS MUSIC_solo_cZoWhKTZTYY_1.2
+MUSIC_solo_1mCi6eWXVbg_2.3 VS MUSIC_solo_ZFuLPm6-kVw_1.4
+MUSIC_solo_XTKxjzg1xwM_1 VS MUSIC_solo_QaOUijKCqZU_2
+MUSIC_solo_yn1NaZWN_qQ_4.1 VS MUSIC_solo__jPFkOkNjuo_1.9
+MUSIC_solo_loCRmBvtHZ4_1 VS MUSIC_solo_QaOUijKCqZU_1
+MUSIC_solo_X3GbAKww1KI_5 VS MUSIC_solo_9dOqmTMqp1k_5.3
+MUSIC_solo_5awjINljUoo_2.3 VS MUSIC_solo_PF9PrzmkR2Q_1.2
+MUSIC_solo_loCRmBvtHZ4_7 VS MUSIC_solo_WSRAO6abxog_5.3
+MUSIC_solo_JnAAzR4XZ-I_0.7 VS MUSIC_solo_loCRmBvtHZ4_5
+MUSIC_solo_yy2vL2RUiPI_8.1 VS MUSIC_solo_C7K9dQHlViM_4.9
+MUSIC_solo_QaOUijKCqZU_10 VS MUSIC_solo_ZuJEVqon3lM_1
+MUSIC_solo_WSRAO6abxog_5.3 VS MUSIC_solo_QaOUijKCqZU_9
+MUSIC_solo_8sgzGhxw-tM_7.6 VS MUSIC_solo_8o5ngxZaYYw_7.2
+MUSIC_solo_QaOUijKCqZU_6 VS MUSIC_solo_8mDNLCo1McQ_2.6
+MUSIC_solo_cZoWhKTZTYY_1.2 VS MUSIC_solo_ALMOnRonTPM_0.9
+MUSIC_solo_X3GbAKww1KI_2 VS MUSIC_solo_lm51ySOO71o_1
+MUSIC_solo_lm51ySOO71o_1 VS MUSIC_solo_KgebjbW1mGk_2.3
+MUSIC_solo_XTKxjzg1xwM_9 VS MUSIC_solo__jPFkOkNjuo_1.9
+MUSIC_solo_fhf2cx9t4vY_0.4 VS MUSIC_solo_X3GbAKww1KI_2
+MUSIC_solo_lm51ySOO71o_2 VS MUSIC_solo_iEOdwzdXmfE_2.9
+MUSIC_solo_yy2vL2RUiPI_8.1 VS MUSIC_solo_1OsOEt5Qpfc_13.6
+MUSIC_solo_cZoWhKTZTYY_1.2 VS MUSIC_solo_nZ4HNz9xvSw_4.4
+MUSIC_solo_yn1NaZWN_qQ_4.1 VS MUSIC_solo_XTKxjzg1xwM_3
+MUSIC_solo_qLLwSb9YX5g_1.6 VS MUSIC_solo_g1sNdUDTfJQ_3.2
+MUSIC_solo_loCRmBvtHZ4_4 VS MUSIC_solo_yn1NaZWN_qQ_3.8
+MUSIC_solo_-_jlqeSs6ZU_5.8 VS MUSIC_solo_1owUN7YXSzE_7.2
+MUSIC_solo_9dOqmTMqp1k_3 VS MUSIC_solo_PY3pK0Guf2Y_5.3
+MUSIC_solo_ZuJEVqon3lM_2 VS MUSIC_solo_yy2vL2RUiPI_8.1
+MUSIC_solo_ZFp0yw9Dxcw_0.9 VS MUSIC_solo_QaOUijKCqZU_3
+MUSIC_solo_9dOqmTMqp1k_8 VS MUSIC_solo_PEyIPSlJNQM_0.4
+MUSIC_solo_yy2vL2RUiPI_7.4 VS MUSIC_solo_QaOUijKCqZU_11
+MUSIC_solo_PEyIPSlJNQM_0.4 VS MUSIC_solo_jW_AuF6dQYY_2.8
+MUSIC_solo_yn1NaZWN_qQ_4.1 VS MUSIC_solo_XTKxjzg1xwM_4
+MUSIC_solo_xyi0Ft3sb0U_3.2 VS MUSIC_solo_PF9PrzmkR2Q_1.2
+MUSIC_solo_iEOdwzdXmfE_4.4 VS MUSIC_solo_8sgzGhxw-tM_0.6
+MUSIC_solo_GSol2w0QnJE_1.5 VS MUSIC_solo_g1sNdUDTfJQ_0.4
+MUSIC_solo_8sgzGhxw-tM_7.6 VS MUSIC_solo_ZuJEVqon3lM_4
+MUSIC_solo_nQpXK7PS-oo_4.5 VS MUSIC_solo_lm51ySOO71o_4
+MUSIC_solo_loCRmBvtHZ4_1 VS MUSIC_solo_XTKxjzg1xwM_3
+MUSIC_solo_ag7eC_pVobo_11.7 VS MUSIC_solo_nZ4HNz9xvSw_4.2
+MUSIC_solo_BO7_8o4QSr4_2.3 VS MUSIC_solo_XTKxjzg1xwM_7
+MUSIC_solo_fhf2cx9t4vY_0.4 VS MUSIC_solo_XTKxjzg1xwM_9
+MUSIC_solo_lp4_79ooAQo_0.1 VS MUSIC_solo_9dOqmTMqp1k_2.3
+MUSIC_solo_BO7_8o4QSr4_0.3 VS MUSIC_solo_QaOUijKCqZU_4
+MUSIC_solo_yn1NaZWN_qQ_4.1 VS MUSIC_solo_ufsSRKgUb6g_0.9
+MUSIC_solo_QaOUijKCqZU_11 VS MUSIC_solo_loCRmBvtHZ4_11
+MUSIC_solo_GSol2w0QnJE_1.5 VS MUSIC_solo_XTKxjzg1xwM_5
+MUSIC_solo_XTKxjzg1xwM_15 VS MUSIC_solo_BwDQ9VIW74Q_1.7
+MUSIC_solo_GSol2w0QnJE_1.5 VS MUSIC_solo_X3GbAKww1KI_4
+MUSIC_solo_CeOAuSm1NUo_1.8 VS MUSIC_solo_9dOqmTMqp1k_6
+MUSIC_solo_XTKxjzg1xwM_8 VS MUSIC_solo_cyUUlWSEujk_2.9
+MUSIC_solo_XTKxjzg1xwM_15 VS MUSIC_solo_9dOqmTMqp1k_6
+MUSIC_solo_loCRmBvtHZ4_11 VS MUSIC_solo_ZuJEVqon3lM_4
+MUSIC_solo_XTKxjzg1xwM_10 VS MUSIC_solo_9dOqmTMqp1k_2.3
+MUSIC_solo_s1hBC8N4-Zo_13.2 VS MUSIC_solo_lm51ySOO71o_3
+MUSIC_solo_XTKxjzg1xwM_2 VS MUSIC_solo_CSKOEhh5nBk_12.7
+MUSIC_solo_-_jlqeSs6ZU_5.8 VS MUSIC_solo_ZFuLPm6-kVw_1.4
+MUSIC_solo_1OsOEt5Qpfc_13.6 VS MUSIC_solo_ZFp0yw9Dxcw_0.9
+MUSIC_solo_ZRpsKMe5dSg_3.9 VS MUSIC_solo_Wt40rzyGSBs_7.6
+MUSIC_solo_cZoWhKTZTYY_1.2 VS MUSIC_solo_ZRpsKMe5dSg_3.9
+MUSIC_solo_ZRpsKMe5dSg_3.9 VS MUSIC_solo_9dOqmTMqp1k_5
+MUSIC_solo_WSRAO6abxog_5.3 VS MUSIC_solo_23DDVbzSig8_1.3
+MUSIC_solo_loCRmBvtHZ4_11 VS MUSIC_solo_9dOqmTMqp1k_8
+MUSIC_solo_5HNlS9UFELE_2.3 VS MUSIC_solo_XTKxjzg1xwM_6
+MUSIC_solo_23DDVbzSig8_1.3 VS MUSIC_solo_loCRmBvtHZ4_13
+MUSIC_solo_PF9PrzmkR2Q_1.2 VS MUSIC_solo_BO7_8o4QSr4_1.4
+MUSIC_solo_9dOqmTMqp1k_4 VS MUSIC_solo_lm51ySOO71o_6
+MUSIC_solo_QaOUijKCqZU_3 VS MUSIC_solo_lVpWbUIW0gY_3.8
+MUSIC_solo_QaOUijKCqZU_10 VS MUSIC_solo_No-IJw4uWMw_11.6
+MUSIC_solo_WSRAO6abxog_1.7 VS MUSIC_solo_XTKxjzg1xwM_12
+MUSIC_solo_X3GbAKww1KI_1 VS MUSIC_solo_vYr0vft28Tg_0.1
+MUSIC_solo_I2QXo4mGeRE_1.4 VS MUSIC_solo_XTKxjzg1xwM_12
+MUSIC_solo_QaOUijKCqZU_3 VS MUSIC_solo_5HNlS9UFELE_2.3
+MUSIC_solo_yy2vL2RUiPI_8.1 VS MUSIC_solo_PF9PrzmkR2Q_1.2
+MUSIC_solo_1mCi6eWXVbg_2.3 VS MUSIC_solo_XTKxjzg1xwM_4
+MUSIC_solo_PEyIPSlJNQM_0.4 VS MUSIC_solo_loCRmBvtHZ4_3
+MUSIC_solo_Sw8346DYwME_0.5 VS MUSIC_solo_ZFp0yw9Dxcw_0.9
+MUSIC_solo_dpnBlIZGyJA_1.3 VS MUSIC_solo_9dOqmTMqp1k_5.3
+MUSIC_solo_nZ4HNz9xvSw_4.2 VS MUSIC_solo_HOUBn-wHcwQ_10.6
+MUSIC_solo_lm51ySOO71o_4 VS MUSIC_solo_XTKxjzg1xwM_3
+MUSIC_solo_lm51ySOO71o_3 VS MUSIC_solo_L_ErwglZCJM_5.5
+MUSIC_solo_I2QXo4mGeRE_1.4 VS MUSIC_solo_9dOqmTMqp1k_1
+MUSIC_solo_5HNlS9UFELE_2.8 VS MUSIC_solo_ZuJEVqon3lM_3
+MUSIC_solo_xyi0Ft3sb0U_3.2 VS MUSIC_solo_cyUUlWSEujk_2.9
+MUSIC_solo_XTKxjzg1xwM_14 VS MUSIC_solo_loCRmBvtHZ4_6
+MUSIC_solo_MvPqp3oZwOk_5.7 VS MUSIC_solo_kbTy_5o6AB4_0.5
+MUSIC_solo_kbTy_5o6AB4_0.5 VS MUSIC_solo_ZuJEVqon3lM_3
+MUSIC_solo_9dOqmTMqp1k_6 VS MUSIC_solo_yn1NaZWN_qQ_4.1
+MUSIC_solo_XTKxjzg1xwM_17 VS MUSIC_solo_9dOqmTMqp1k_4
+MUSIC_solo_PF9PrzmkR2Q_1.2 VS MUSIC_solo_-_jlqeSs6ZU_5.8
+MUSIC_solo_cZoWhKTZTYY_3.2 VS MUSIC_solo_XTKxjzg1xwM_15
+MUSIC_solo_loCRmBvtHZ4_6 VS MUSIC_solo_j0U_hqIH_XM_3.1
+MUSIC_solo_KC2RgtW4IZ0_4.9 VS MUSIC_solo_9dOqmTMqp1k_6
+MUSIC_solo_X3GbAKww1KI_3 VS MUSIC_solo_QaOUijKCqZU_4
+MUSIC_solo__jPFkOkNjuo_1.9 VS MUSIC_solo_yXKJiqOuvkA_0.8
+MUSIC_solo_loCRmBvtHZ4_9 VS MUSIC_solo_g1sNdUDTfJQ_0.4
+MUSIC_solo_XTKxjzg1xwM_10 VS MUSIC_solo_yn1NaZWN_qQ_3.8
+MUSIC_solo_g1sNdUDTfJQ_0.4 VS MUSIC_solo_XTKxjzg1xwM_3
+MUSIC_solo_g1sNdUDTfJQ_0.4 VS MUSIC_solo_Mff3pp-Fj2w_7
+MUSIC_solo_XTKxjzg1xwM_17 VS MUSIC_solo_g1sNdUDTfJQ_0.4
+MUSIC_solo_WNeHlya4VnQ_7.6 VS MUSIC_solo_WSRAO6abxog_5.3
+MUSIC_solo_XTKxjzg1xwM_13 VS MUSIC_solo_X3GbAKww1KI_4
+MUSIC_solo_BO7_8o4QSr4_1.4 VS MUSIC_solo__jPFkOkNjuo_1.9
+MUSIC_solo_QaOUijKCqZU_6 VS MUSIC_solo_8rb-thew50c_6.8
+MUSIC_solo_PEyIPSlJNQM_0.4 VS MUSIC_solo_aZjtE82spMA_3.2
+MUSIC_solo_aZjtE82spMA_3.2 VS MUSIC_solo_QaOUijKCqZU_9
+MUSIC_solo_9dOqmTMqp1k_5 VS MUSIC_solo_lVpWbUIW0gY_3.8
+MUSIC_solo_QaOUijKCqZU_1 VS MUSIC_solo_ds0ayqYweAc_2.3
+MUSIC_solo_iEOdwzdXmfE_2.9 VS MUSIC_solo_oEb2mlij38w_2.4
+MUSIC_solo_XTKxjzg1xwM_9 VS MUSIC_solo_ZuJEVqon3lM_1
+MUSIC_solo_loCRmBvtHZ4_10 VS MUSIC_solo_XTKxjzg1xwM_2
+MUSIC_solo_Mff3pp-Fj2w_7 VS MUSIC_solo_QaOUijKCqZU_3
+MUSIC_solo_lVpWbUIW0gY_3.8 VS MUSIC_solo__jPFkOkNjuo_1.9
+MUSIC_solo_7G6QVPCHv6Q_10.7 VS MUSIC_solo_PEyIPSlJNQM_0.4
+MUSIC_solo__AtTFfgZvEk_4.3 VS MUSIC_solo_X3GbAKww1KI_4
+MUSIC_solo_iEOdwzdXmfE_2.9 VS MUSIC_solo_lm51ySOO71o_5
+MUSIC_solo_KC2RgtW4IZ0_4.9 VS MUSIC_solo_23DDVbzSig8_1.3
+MUSIC_solo_ag7eC_pVobo_11.7 VS MUSIC_solo_QaOUijKCqZU_8
+MUSIC_solo_XTKxjzg1xwM_13 VS MUSIC_solo__jPFkOkNjuo_5.4
+MUSIC_solo_PF9PrzmkR2Q_1.2 VS MUSIC_solo_QaOUijKCqZU_1
+MUSIC_solo_8sgzGhxw-tM_0.6 VS MUSIC_solo_ALMOnRonTPM_0.9
+MUSIC_solo_CSKOEhh5nBk_12.7 VS MUSIC_solo_QaOUijKCqZU_7
+MUSIC_solo_9dOqmTMqp1k_6 VS MUSIC_solo_jW_AuF6dQYY_2.8
+MUSIC_solo_kCMA0wi7i6Y_10.1 VS MUSIC_solo_loCRmBvtHZ4_5/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+/home/manhnguyen/anaconda3/envs/co_separation/lib/python3.7/site-packages/scipy/fftpack/basic.py:160: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  z[index] = x
+
+MUSIC_solo_9dOqmTMqp1k_5.3 VS MUSIC_solo_KC2RgtW4IZ0_4.9
+MUSIC_solo_QaOUijKCqZU_10 VS MUSIC_solo_loCRmBvtHZ4_8
+MUSIC_solo_ZuJEVqon3lM_4 VS MUSIC_solo_loCRmBvtHZ4_10
+MUSIC_solo_XTKxjzg1xwM_7 VS MUSIC_solo_9dOqmTMqp1k_2
+MUSIC_solo_9dOqmTMqp1k_5 VS MUSIC_solo_X3GbAKww1KI_5
+MUSIC_solo_wEF6fWnx_wY_5.9 VS MUSIC_solo_QaOUijKCqZU_11
+MUSIC_solo_lp4_79ooAQo_0.1 VS MUSIC_solo_g1sNdUDTfJQ_2.4
+MUSIC_solo_loCRmBvtHZ4_8 VS MUSIC_solo_ZuJEVqon3lM_1
+MUSIC_solo_cZoWhKTZTYY_1.2 VS MUSIC_solo_XTKxjzg1xwM_17
+MUSIC_solo_5HNlS9UFELE_2.8 VS MUSIC_solo_q4kscRK91y4_4.8
+MUSIC_solo_kCMA0wi7i6Y_10.1 VS MUSIC_solo_g1sNdUDTfJQ_3.2
+MUSIC_solo_GSol2w0QnJE_1.5 VS MUSIC_solo_1mCi6eWXVbg_2.3
+MUSIC_solo_iEOdwzdXmfE_4.4 VS MUSIC_solo_L_ErwglZCJM_5.5
+MUSIC_solo_KgebjbW1mGk_2.3 VS MUSIC_solo_yn1NaZWN_qQ_4.1
+MUSIC_solo_lVpWbUIW0gY_3.8 VS MUSIC_solo_XTKxjzg1xwM_8
+MUSIC_solo_wEF6fWnx_wY_5.9 VS MUSIC_solo_XTKxjzg1xwM_5
+MUSIC_solo_PY3pK0Guf2Y_5.3 VS MUSIC_solo_ds0ayqYweAc_2.3
+MUSIC_solo_lm51ySOO71o_6 VS MUSIC_solo_q4kscRK91y4_4.8
+MUSIC_solo_PF9PrzmkR2Q_1.2 VS MUSIC_solo_C7K9dQHlViM_4.9
+MUSIC_solo_OBbmnUIJQDQ_6.1 VS MUSIC_solo_I2QXo4mGeRE_1.6
+MUSIC_solo_KgebjbW1mGk_2.3 VS MUSIC_solo_XTKxjzg1xwM_2
+MUSIC_solo_xyi0Ft3sb0U_3.2 VS MUSIC_solo__jPFkOkNjuo_5.4
+MUSIC_solo_PEyIPSlJNQM_0.4 VS MUSIC_solo_loCRmBvtHZ4_2
+MUSIC_solo_GPh_9jtWub8_2.6 VS MUSIC_solo_WSRAO6abxog_1.7
+MUSIC_solo_cZoWhKTZTYY_1.2 VS MUSIC_solo_VtZXRWtp5G0_1.8
+MUSIC_solo_I2QXo4mGeRE_1.4 VS MUSIC_solo_WNeHlya4VnQ_7.6
+MUSIC_solo_OBbmnUIJQDQ_6.1 VS MUSIC_solo_kCMA0wi7i6Y_10.1
+MUSIC_solo_7G6QVPCHv6Q_10.7 VS MUSIC_solo_-5MipMQ25cU_10.9
+MUSIC_solo_9dOqmTMqp1k_2 VS MUSIC_solo_ds0ayqYweAc_2.3
+MUSIC_solo_XTKxjzg1xwM_11 VS MUSIC_solo_xyi0Ft3sb0U_3.2
+MUSIC_solo_QaOUijKCqZU_7 VS MUSIC_solo_lm51ySOO71o_3
+MUSIC_solo_loCRmBvtHZ4_12 VS MUSIC_solo_fhf2cx9t4vY_0.4
+MUSIC_solo_ZFuLPm6-kVw_1.4 VS MUSIC_solo_nZ4HNz9xvSw_4.2
+MUSIC_solo_CSKOEhh5nBk_12.7 VS MUSIC_solo_BO7_8o4QSr4_0.3
+MUSIC_solo_XTKxjzg1xwM_14 VS MUSIC_solo_YR6kjiPyNHU_10.5
+MUSIC_solo_GPh_9jtWub8_2.6 VS MUSIC_solo_OBbmnUIJQDQ_6.1
+MUSIC_solo_XTKxjzg1xwM_16 VS MUSIC_solo_vYr0vft28Tg_0.1
+MUSIC_solo_q4kscRK91y4_4.8 VS MUSIC_solo_KC2RgtW4IZ0_5.4
+MUSIC_solo_CSKOEhh5nBk_12.7 VS MUSIC_solo_CeOAuSm1NUo_1.8
+MUSIC_solo_1mCi6eWXVbg_2.3 VS MUSIC_solo_XTKxjzg1xwM_1
+MUSIC_solo_OBbmnUIJQDQ_6.1 VS MUSIC_solo_9dOqmTMqp1k_8
+MUSIC_solo_CSKOEhh5nBk_12.7 VS MUSIC_solo_9dOqmTMqp1k_2.3
+MUSIC_solo_5HNlS9UFELE_2.3 VS MUSIC_solo_WSRAO6abxog_5.3
+MUSIC_solo__jPFkOkNjuo_5.4 VS MUSIC_solo_GPh_9jtWub8_2.6
+MUSIC_solo_aZjtE82spMA_3.2 VS MUSIC_solo_1OsOEt5Qpfc_13.6
+MUSIC_solo_KC2RgtW4IZ0_4.9 VS MUSIC_solo_loCRmBvtHZ4_2
+MUSIC_solo_cZoWhKTZTYY_1.2 VS MUSIC_solo_c7Jyu_OiEB0_7.5
+MUSIC_solo_loCRmBvtHZ4_2 VS MUSIC_solo_X3GbAKww1KI_3
+MUSIC_solo_23DDVbzSig8_4.4 VS MUSIC_solo_cZoWhKTZTYY_1.2
+MUSIC_solo_jW_AuF6dQYY_2.8 VS MUSIC_solo_nZ4HNz9xvSw_4.2
+MUSIC_solo_WNeHlya4VnQ_7.6 VS MUSIC_solo_QaOUijKCqZU_3
+MUSIC_solo_QaOUijKCqZU_3 VS MUSIC_solo_XTKxjzg1xwM_1
+MUSIC_solo_nQpXK7PS-oo_4.5 VS MUSIC_solo_XTKxjzg1xwM_3
+MUSIC_solo_yy2vL2RUiPI_8.1 VS MUSIC_solo_XYizxH7yAqA_4.4
+MUSIC_solo_XlvlHfWjKx4_0.8 VS MUSIC_solo_oEb2mlij38w_2.4
+MUSIC_solo_1mCi6eWXVbg_2.3 VS MUSIC_solo_xyi0Ft3sb0U_3.2
+MUSIC_solo_cZoWhKTZTYY_3.2 VS MUSIC_solo_I2QXo4mGeRE_1.4
+MUSIC_solo_X3GbAKww1KI_2 VS MUSIC_solo_s1hBC8N4-Zo_13.2
+MUSIC_solo_XTKxjzg1xwM_4 VS MUSIC_solo_7G6QVPCHv6Q_10.7
+MUSIC_solo_qLLwSb9YX5g_1.6 VS MUSIC_solo_XTKxjzg1xwM_13
+MUSIC_solo_QaOUijKCqZU_6 VS MUSIC_solo_lm51ySOO71o_3
+MUSIC_solo_WNeHlya4VnQ_6.8 VS MUSIC_solo_9dOqmTMqp1k_5.3
+MUSIC_solo_OBbmnUIJQDQ_6.1 VS MUSIC_solo_XTKxjzg1xwM_16
+MUSIC_solo_j0U_hqIH_XM_3.1 VS MUSIC_solo_lm51ySOO71o_4
+MUSIC_solo_wEF6fWnx_wY_5.9 VS MUSIC_solo_KgebjbW1mGk_2.3
+MUSIC_solo_ufsSRKgUb6g_0.9 VS MUSIC_solo_5HNlS9UFELE_2.8
+MUSIC_solo_7G6QVPCHv6Q_10.7 VS MUSIC_solo_WSRAO6abxog_1.7
+MUSIC_solo_8mDNLCo1McQ_2.6 VS MUSIC_solo_loCRmBvtHZ4_6
+MUSIC_solo_ZuJEVqon3lM_4 VS MUSIC_solo_QaOUijKCqZU_1
+MUSIC_solo_loCRmBvtHZ4_12 VS MUSIC_solo_X3GbAKww1KI_4
+MUSIC_solo_BO7_8o4QSr4_2.3 VS MUSIC_solo_lVpWbUIW0gY_3.8
+MUSIC_solo_1OsOEt5Qpfc_13.6 VS MUSIC_solo_XTKxjzg1xwM_6
+MUSIC_solo_QaOUijKCqZU_1 VS MUSIC_solo_ag7eC_pVobo_11.7
+MUSIC_solo_KgebjbW1mGk_2.3 VS MUSIC_solo_HOUBn-wHcwQ_10.6
+MUSIC_solo_XTKxjzg1xwM_3 VS MUSIC_solo_ZFp0yw9Dxcw_0.9
+MUSIC_solo_XTKxjzg1xwM_15 VS MUSIC_solo_Sw8346DYwME_0.5
+MUSIC_solo_loCRmBvtHZ4_1 VS MUSIC_solo_YwDABKyGY_g_2.3
+MUSIC_solo_QaOUijKCqZU_7 VS MUSIC_solo_1mCi6eWXVbg_2.3
+MUSIC_solo_XTKxjzg1xwM_10 VS MUSIC_solo_YwDABKyGY_g_2.3
+MUSIC_solo_wEF6fWnx_wY_5.9 VS MUSIC_solo_lm51ySOO71o_4
+MUSIC_solo_cZoWhKTZTYY_1.2 VS MUSIC_solo_QaOUijKCqZU_2
+MUSIC_solo_XTKxjzg1xwM_5 VS MUSIC_solo_loCRmBvtHZ4_11
+MUSIC_solo_X3GbAKww1KI_3 VS MUSIC_solo_KC2RgtW4IZ0_4.9
+MUSIC_solo_oEb2mlij38w_2.4 VS MUSIC_solo_XTKxjzg1xwM_17
+MUSIC_solo_X3GbAKww1KI_4 VS MUSIC_solo_WNeHlya4VnQ_7.6
+MUSIC_solo_XTKxjzg1xwM_11 VS MUSIC_solo_BwDQ9VIW74Q_1.7
+MUSIC_solo_loCRmBvtHZ4_12 VS MUSIC_solo__jPFkOkNjuo_1.9
+MUSIC_solo_kbTy_5o6AB4_0.5 VS MUSIC_solo_5HNlS9UFELE_2.3
+MUSIC_solo_QaOUijKCqZU_10 VS MUSIC_solo_iEOdwzdXmfE_2.9
+MUSIC_solo_X3GbAKww1KI_2 VS MUSIC_solo_YR6kjiPyNHU_10.5
+MUSIC_solo_QaOUijKCqZU_11 VS MUSIC_solo_loCRmBvtHZ4_7
+MUSIC_solo_GSol2w0QnJE_1.5 VS MUSIC_solo_qLLwSb9YX5g_1.6
+MUSIC_solo_yy2vL2RUiPI_7.4 VS MUSIC_solo_iEOdwzdXmfE_4.4
+MUSIC_solo_XTKxjzg1xwM_4 VS MUSIC_solo_-5MipMQ25cU_10.9
+MUSIC_solo_PEyIPSlJNQM_0.4 VS MUSIC_solo_ALMOnRonTPM_0.9
+MUSIC_solo_2gk-IN35s5I_1.6 VS MUSIC_solo_CeOAuSm1NUo_1.8
+MUSIC_solo_lm51ySOO71o_5 VS MUSIC_solo_xyi0Ft3sb0U_3.2
+MUSIC_solo_kCMA0wi7i6Y_10.1 VS MUSIC_solo_XTKxjzg1xwM_6
+MUSIC_solo_1OsOEt5Qpfc_13.6 VS MUSIC_solo_9dOqmTMqp1k_2.3
+MUSIC_solo_XTKxjzg1xwM_6 VS MUSIC_solo_qLLwSb9YX5g_1.6
+MUSIC_solo_loCRmBvtHZ4_2 VS MUSIC_solo_Sw8346DYwME_0.5
+MUSIC_solo_VtZXRWtp5G0_1.8 VS MUSIC_solo_X3GbAKww1KI_5
